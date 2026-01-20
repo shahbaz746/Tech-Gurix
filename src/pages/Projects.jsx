@@ -1,9 +1,10 @@
 import React from 'react'
+import FocusSection from '../components/sections/FocusSection'
 
 const Projects = () => {
   return (
-    <div>
-      i am projects page
+    <div className="w-full bg-white">
+      <FocusSection />
     </div>
   )
 }

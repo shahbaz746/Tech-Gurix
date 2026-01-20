@@ -1,9 +1,10 @@
 import React from 'react'
+import AboutSection from '../components/sections/AboutSection'
 
 const About = () => {
   return (
-    <div>
-      i am about page
+    <div className="w-full bg-white">
+      <AboutSection />
     </div>
   )
 }
