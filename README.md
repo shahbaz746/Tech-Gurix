@@ -1,16 +1,142 @@
-# React + Vite
+🚀 TechGurix – Modern Tech Agency Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TechGurix is a modern and responsive tech agency website built to showcase services, projects, and company information. It includes multiple sections such as Home, About, Services, Projects, and Contact, along with integrated social media links.
 
-Currently, two official plugins are available:
+🌐 Live Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: (Add your deployed link here)
+🔗 GitHub Repository: (Add your GitHub repo link here)
 
-## React Compiler
+📌 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🏠 Home Page with Hero Section
 
-## Expanding the ESLint configuration
+👨‍💼 About Section (Company Overview)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Services Section
+
+💼 Projects Showcase with Filters
+
+📞 Contact Form
+
+📱 Fully Responsive Design
+
+🎨 Modern UI with Animations
+
+🔗 Social Media Integration
+
+🖼 Dynamic Project Images
+
+📊 Statistics Section
+
+🛠 Tech Stack
+
+This project is built using:
+
+⚛️ React
+
+🎨 Tailwind CSS
+
+⚡ Vite
+
+🎯 Lucide React Icons
+
+📂 Project Structure
+techgurix/
+│
+├── public/
+│
+├── src/
+│   ├── assets/        # Images & static files
+│   ├── components/    # Reusable components
+│   ├── pages/         # Home, About, Services, Projects, Contact
+│   ├── data/          # Project data (focusData.js)
+│   ├── App.jsx
+│   └── main.jsx
+│
+└── package.json
+🖼 Pages Included
+🏠 Home
+
+Hero section
+
+Agency introduction
+
+Call-to-action
+
+👨 About
+
+Company mission & vision
+
+Team introduction
+
+Company values
+
+🛠 Services
+
+Web Development
+
+UI/UX Design
+
+Frontend Development
+
+Backend Development
+
+Full Stack Solutions
+
+💼 Projects
+
+Dynamic project cards
+
+Technology filtering
+
+Modal detail view
+
+Live & GitHub links
+
+📞 Contact
+
+Contact form
+
+Email integration (optional)
+
+Location & contact info
+
+🔗 Social Media Integration
+
+You can link all your social accounts in the footer:
+
+🌐 Website
+
+🐙 GitHub
+
+💼 LinkedIn
+
+📸 Instagram
+
+🐦 Twitter / X
+
+▶ YouTube
+
+Example:
+
+<a href="https://github.com/yourusername" target="_blank">
+  GitHub
+</a>
+⚙ Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/yourusername/techgurix.git
+
+Navigate to the project:
+
+cd techgurix
+
+Install dependencies:
+
+npm install
+
+Run development server:
+
+npm run dev
