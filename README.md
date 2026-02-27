@@ -4,7 +4,7 @@ TechGurix is a modern and responsive tech agency website built to showcase servi
 
 🌐 Live Preview
 
-🔗 Live Demo: (Add your deployed link here)
+🔗 Live Demo: [https://tech-gurix.vercel.app/](https://tech-gurix.vercel.app/)
 🔗 GitHub Repository: (Add your GitHub repo link here)
 
 📌 Features
